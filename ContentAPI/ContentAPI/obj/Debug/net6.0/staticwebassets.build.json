@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M7nKzO0ZTpnLVGpVSOsq/j16aHg1THxOUv7wuyT/ywc=",
+  "Source": "ContentAPI",
+  "BasePath": "_content/ContentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
