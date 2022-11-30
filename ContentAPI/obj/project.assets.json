@@ -2487,11 +2487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\ContentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\ContentAPI.csproj",
       "projectName": "ContentAPI",
-      "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\ContentAPI.csproj",
+      "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\ContentAPI.csproj",
       "packagesPath": "C:\\Users\\luca_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\obj\\",
+      "outputPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

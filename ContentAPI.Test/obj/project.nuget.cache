@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ucUHwuF0qkJtHqQYlcA2bvUiDsgsVTzhx93/wInEut1rhD6K24RPmYx/j/I1lWQw/PU28Ect8tGIWK9qqc9ZeA==",
+  "dgSpecHash": "djgrdYDZIrEXXOUE5FKavmc+2vI6FHAg/J/n7HdxxCEmP5vtpEeDG1hkFzTDSEk6Cz8WBCBa9s32cI909cppuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI.Test\\ContentAPI.Test.csproj",
+  "projectFilePath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI.Test\\ContentAPI.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luca_\\.nuget\\packages\\autofixture\\4.17.0\\autofixture.4.17.0.nupkg.sha512",
     "C:\\Users\\luca_\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
