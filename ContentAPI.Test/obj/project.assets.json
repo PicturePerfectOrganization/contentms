@@ -8689,11 +8689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI.Test\\ContentAPI.Test.csproj",
+      "projectUniqueName": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI.Test\\ContentAPI.Test.csproj",
       "projectName": "ContentAPI.Test",
-      "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI.Test\\ContentAPI.Test.csproj",
+      "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI.Test\\ContentAPI.Test.csproj",
       "packagesPath": "C:\\Users\\luca_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI.Test\\obj\\",
+      "outputPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -8715,8 +8715,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\ContentAPI.csproj": {
-              "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\ContentAPI.csproj"
+            "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\ContentAPI.csproj": {
+              "projectPath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\ContentAPI.csproj"
             }
           }
         }

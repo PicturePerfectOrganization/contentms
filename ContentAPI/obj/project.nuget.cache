@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+e8yxISHkB6Oqi9mU0cSrO4kqsVdulY5HhqjJpO1Rj9gGHPCmFAgpa+37YkqQbgnt1sYfv5DborvJY7241/YiA==",
+  "dgSpecHash": "iEJWQTiy5ZVfoMnjMl+JHyQN5mTOFTUxLocjcRLmln6a+mtdzzWN+LkAtS+YM8Auh5Ysv+ti7/5Lq0YzlolRyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\pictureperfect\\ContentAPI\\ContentAPI\\ContentAPI.csproj",
+  "projectFilePath": "C:\\Users\\luca_\\source\\repos\\Semester-6\\S6_Individual_ProjectRepos\\contentmspictureperfect\\ContentAPI\\ContentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luca_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
