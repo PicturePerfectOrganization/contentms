@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: content-api
+  labels:
+    app: content-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: content-api
+  template:
+    metadata:
+      labels:
+        app: content-api
+    spec:
+      containers:
+        - name: content-api
+          image: lucadocker410/contentapi:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              cpu: 100m
+              memory: 100Mi
+            limits:
+              cpu: 200m
+              memory: 200Mi
