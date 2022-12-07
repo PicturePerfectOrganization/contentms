@@ -9,15 +9,12 @@ EXPOSE 80
 EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-COPY ["ContentAPI/ContentAPI.csproj", "ContentAPI/"]
-RUN dotnet restore "ContentAPI/ContentAPI.csproj"
 COPY . .
-WORKDIR "/src/ContentAPI"
-RUN dotnet build "ContentAPI.csproj" -c Release -o /app/build
+RUN dotnet restore "ContentAPI/ContentAPI.csproj"
+RUN dotnet build "ContentAPI/ContentAPI.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "ContentAPI.csproj" -c Release -o /app/publish
+RUN dotnet publish "ContentAPI/ContentAPI.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
