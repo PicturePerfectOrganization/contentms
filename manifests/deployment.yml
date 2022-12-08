@@ -19,7 +19,7 @@ spec:
           image: pictureperfectclusterregistry.azurecr.io/contentapi:latest
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 80
+            - containerPort: 443
           resources:
             requests:
               cpu: 100m

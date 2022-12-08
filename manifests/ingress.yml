@@ -12,10 +12,10 @@ spec:
   rules:
     - http:
         paths:
-          - path: ./ContentAPI/(/|$)(.*)
+          - path: /ContentAPI(/|$)(.*)
             pathType: Prefix
             backend:
               service:
                 name: content-api-service
                 port:
-                  number: 80
+                  number: 443
