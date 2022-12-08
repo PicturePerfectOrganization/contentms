@@ -11,7 +11,7 @@
 
 <table align="center" class="no-border" >
   <tr>
-    <td>Content MS: <img src="https://github.com/Luca-Bulles/contentmspictureperfect/actions/workflows/contentms.yml/badge.svg" alt="C# Content MS health"/></td>
+    <td>Content MS: <img src="https://github.com/PicturePerfectOrganization/contentms/actions/workflows/contentms.yml/badge.svg" alt="C# Content MS health"/></td>
   </tr>
 </table>
 
